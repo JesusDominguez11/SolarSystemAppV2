@@ -1,33 +1,4 @@
 {
-  "expo": {
-    "name": "SolarSystemAppV2",
-    "slug": "SolarSystemAppV2",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.jesusg0176.SolarSystemAppV2"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "c80eb9ba-0076-48d5-b947-e14892bd8017"
-      }
-    }
-  }
+  "name": "SolarSystemAppV2",
+  "displayName": "SolarSystemAppV2"
 }
