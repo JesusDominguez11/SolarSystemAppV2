@@ -1,50 +1,12 @@
-# Welcome to your Expo app 👋
+# SolarSystemApp_v2 - Visualizador de gráficos 2D y 3D
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Una aplicación móvil de FrontEnd para visualización de gráficos 3D, gráficos 2D, animaciones, manejo de gestos, navegación entre ventanas, audio y temas personalizados. 
 
-## Get started
+Desarrollada en React Native con Expo, base de datos local con mongo y desplegada con Eas build.
 
-1. Install dependencies
+Debajo se encuentran imagenes descriptivas del proyecto.
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![p1_123](https://github.com/user-attachments/assets/af963079-8638-4d1c-92ec-e236f0a4a851)
+![p1_234](https://github.com/user-attachments/assets/48719b5d-23ab-4d7a-b432-aa37252e924a)
+![p1_345](https://github.com/user-attachments/assets/2ac692a0-77df-4c6e-9a2d-4afbe6d2ac8e)
+![p1_456](https://github.com/user-attachments/assets/e1dc08ec-3bd4-47ed-a11e-1316c1e2d095)
